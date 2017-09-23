@@ -1,5 +1,9 @@
 learn github welcome
+<<<<<<< HEAD
 
 123455
 
 bxg
+=======
+ÎÒÊÇÔ¬Æ½
+>>>>>>> 5b0f9ac07599ca5e71a26e25d6ca3bd295a1e219
