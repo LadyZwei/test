@@ -1,34 +1,26 @@
 {
-  "name": "lady-zwei/test",
-  "description": "Yii2 zqy234 terrytest",
-  "keywords": [
-    "yii2",
-    "terrytest"
+    "name": "yuan/tree",
+    "description": "tree data 测试",
+   "keywords": [
+    "tree",
+    "测试",
+    "tree-data"
   ],
-  "homepage": "https://github.com/LadyZwei/test",
-  "type": "yii2-extension",
-  "license": "MIT",
-  "support": {
-    "source": "https://github.com/LadyZwei/test"
-  },
-  "authors": [
-    {
-      "name": "yuan",
-      "email": "1019979673@qq.com"
-    }
-  ],
-  "minimum-stability": "stable",
-  "require": {
-    "php": ">=5.4.0",
-    "yiisoft/yii2": ">=2.0.6"
-   
-  },
-  "autoload": {
-    "psr-4": {
-      "terry\\": ""
-    }
-  },
-  "config": {
-    "process-timeout": 1800
-  }
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "yuanping",
+            "email": "1019979673@qq.com"
+        }
+    ],
+    "require": {
+        
+        "php": ">=5.4"
+    },
+     "license": "MIT",
+     "autoload": {
+            "psr-4": {
+                "Tree\\": "src/"
+            }
+        }
 }
