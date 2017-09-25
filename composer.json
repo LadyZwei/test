@@ -1,6 +1,7 @@
 {
     "name": "test2/yuan",
     "description": "qqconnect package",
+      "version": "1.0.0",
     "authors": [
         {
             "name": "申法宽",
