@@ -1,26 +1,18 @@
 {
-    "name": "yuan21/test",
-    "description": "tree data 测试",
-   "keywords": [
-    "tree",
-    "测试",
-    "tree-data"
-  ],
-    "minimum-stability": "stable",
+    "name": "test2/yuan",
+    "description": "qqconnect package",
     "authors": [
         {
-            "name": "yuanping",
-            "email": "1019979673@qq.com"
+            "name": "申法宽",
+            "email": "sfk@live.cn"
         }
     ],
     "require": {
-        
-        "php": ">=5.4"
+        "php": ">=5.4.0"
     },
-     "license": "MIT",
-     "autoload": {
-            "psr-4": {
-                "Tree\\": "src/"
-            }
+    "autoload": {
+        "psr-4": {
+            "kuange\\qqconnect\\": "/"
         }
+    }
 }
